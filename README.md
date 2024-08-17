@@ -11,8 +11,6 @@ PI (Plant Incubator)는 중학교 1학년 때 개발한 가정용 스마트 식�
 
 ## 기술 스택
 - Arduino
-- C++ (Arduino 프로그래밍)
-- 3D 모델링 (Fusion 360)
 - 앱 개발 (App Inventor)
 
 ## 주요 구성요소
